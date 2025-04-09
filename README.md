@@ -1,7 +1,7 @@
 
 # Thibaud Fresnay | Fullstack Developer 
 
-Welcomme to my Github Profile ! 👋
+**Welcomme** **to** **my** **Github** **Profile** !👋
 I am a French Fullstack Developper passionate about coding and ingeniering aspects. My skills are more involved on front-end side for the moment but I am curently working on both front and back-end aspects.
 
 My Github account is permanently under construction.
