@@ -70,7 +70,7 @@ Don't hesitate to contact me if you want to get connected for any project, propo
 ###
 
 ### Contact
-- **Portfolio**: [portfolio](https://github.com/ThibaudFre/MyPortfolio_Backend) (It is still not online as I am still working on it)  
+- **Portfolio**: [portfolio](https://github.com/ThibaudFre/MyPortfolio_Backend) (It is not online as I am still working on it)  
 - **LinkedIn**: [profile](https://www.linkedin.com/in/thibaudfres/) 
 - **Email**: [thibaudfresnay.pro@gmail.com](mailto:thibaudfresnay.pro@gmail.com)
 <!--
