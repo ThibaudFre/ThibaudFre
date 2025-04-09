@@ -9,8 +9,17 @@ You can find bellow all my repository
 
 Don't hesitate to contact me if you want to get connected for any project, proposal job or to share with me any informations about tech in general (see contact section).
 
-[![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibaudFre&Theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibaudFre&Theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ThibaudFre&show_icons=true&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ThibaudFre&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 ### Skills:
