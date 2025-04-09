@@ -1,11 +1,11 @@
 
 # Thibaud Fresnay | Fullstack Developer 
 
-Welcomme to my Github Profile !
+Welcomme to my Github Profile ! 👋
 I am a French Fullstack Developper passionate about coding and ingeniering aspects. My skills are more involved on front-end side for the moment but I am curently working on both front and back-end aspects.
 
-My Github acount is permanently under construction.
-You can find bellow all my repository
+My Github account is permanently under construction.
+You can find bellow all my repositories
 
 Don't hesitate to contact me if you want to get connected for any project, proposal job or to share with me any informations about tech in general (see contact section).
 
@@ -25,7 +25,7 @@ Don't hesitate to contact me if you want to get connected for any project, propo
 ### Skills:
 
 ### Contact
-- **Portfolio**: [portfolio](https://github.com/ThibaudFre/MyPortfolio_Backend)(I am still working on it)  
+- **Portfolio**: [portfolio](https://github.com/ThibaudFre/MyPortfolio_Backend) (It is still not online as I am still working on it)  
 - **LinkedIn**: [profile](https://www.linkedin.com/in/thibaudfres/) 
 - **Email**: [thibaudfresnay.pro@gmail.com](mailto:thibaudfresnay.pro@gmail.com)
 <!--
