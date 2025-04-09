@@ -9,8 +9,8 @@ You can find bellow all my repositories
 
 Don't hesitate to contact me if you want to get connected for any project, proposal job or to share with me any informations about tech in general (see contact section).
 
-<div align="center>
-  <picture>
+<a href="https://github-readme-stats.vercel.app/api?username=ThibaudFre&show_icons=true" align="left">
+  <picture height=200">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=ThibaudFre&show_icons=true&theme=vue-dark"
       media="(prefers-color-scheme: dark)"
@@ -21,19 +21,20 @@ Don't hesitate to contact me if you want to get connected for any project, propo
     />
     <img src="https://github-readme-stats.vercel.app/api?username=ThibaudFre&show_icons=true" />
   </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a align="right">
+  <picture height=200>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudFre&Theme=vue-dark&size_weight=0.5&count_weight=0.5"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudFre&theme=vue-dark&size_weight=0.5&count_weight=0.5"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudFre&Theme=vue&size_weight=0.5&count_weight=0.5"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudFre&theme=vue&size_weight=0.5&count_weight=0.5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github.com/anuraghazra/github-readme-stats" />
   </picture>
-</div>
+</>
 
 
 
