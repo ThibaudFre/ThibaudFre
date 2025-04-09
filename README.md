@@ -9,7 +9,7 @@ You can find bellow all my repository
 
 Don't hesitate to contact me if you want to get connected for any project, proposal job or to share with me any informations about tech in general (see contact section).
 
-[![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thibaud&Theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibaudFre&Theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills:
 
